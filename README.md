@@ -1,2 +1,2 @@
 # dev-demo
-demo  for github
+demo class.
